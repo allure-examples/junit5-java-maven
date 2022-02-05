@@ -10,6 +10,7 @@
     <artifactId>allure-junit5-maven</artifactId>
     <version>1.3</version>
 
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
